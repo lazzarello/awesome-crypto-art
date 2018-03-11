@@ -71,6 +71,7 @@ If you do not agree to this disclaimer, the please do not use this publication.
 - [Cryptopop](https://cryptopop.net/)
 - [Daniel Friedman](https://www.flickr.com/photos/daniel_friedman/)
 - [DJ J Scrilla](https://twitter.com/scrillaventura)
+- [Jesse Wright](https://www.rantingwright.com/)
 - [Jessica Angel](http://www.jessicaangelarts.com/)
 - [Julia K](https://twitter.com/juliakponsford)
 - [Kirk Dunkley](http://www.sigmasixdesign.com/bitcoingallery-store)
@@ -301,17 +302,21 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 If you find this list helpful, please donate!
 
-Bitcoin and Bitcoin based art are welcome as donations to this address:
+#### Bitcoin and Bitcoin based art are welcome as donations to this address:
 
 ```
 1Gm1bL1v3ntLXnkNE8Pw2SsnyhsotZwYKR
 ```
 
-Ethereum and Ethereum based art welcome as donations to this address:
+![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/1Gm1bL1v3ntLXnkNE8Pw2SsnyhsotZwYKR.png)
+
+#### Ethereum and Ethereum based art welcome as donations to this address:
 
 ```
 0x20a0a36f916c541d6fa625893d2640e5d9495ff6
 ```
+
+![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/0x20a0a36f916c541d6fa625893d2640e5d9495ff6.png)
 
 ## Thank You!
 
