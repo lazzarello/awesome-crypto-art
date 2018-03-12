@@ -62,7 +62,7 @@ If you want to discuss something more complex than adding or editing an entry, (
 - The authors and contributors will not and cannot be held liable for any actions you take as a result of anything you read in this publication
 - No representations or warranties are made with respect to the accuracy or completeness of the content of this entire publication, including any links to other sites. The links provided are maintained by their respective organizations and those organizations are solely responsible for their content. All information presented in this publication is provided **‘as is’**, **without warranty of any kind**, **expressed or implied**.
 
-If you do not agree to this disclaimer, the please do not use this publication.
+If you do not agree to this disclaimer, then please do not use this publication.
 
 ## Artists
 
@@ -79,11 +79,14 @@ If you do not agree to this disclaimer, the please do not use this publication.
 - [Moka Schitta](https://www.mokafolio.de/)
 - [Moxarra Gonzalez](https://twitter.com/moxarra)
 - [MrHansel](https://twitter.com/bettidlomas)
+- [Nanu Berks](http://nanuberks.com/)
+- [Ophelia Fu](http://www.opheliafu.co.uk/)
 - [Pepe Girl](https://twitter.com/pepegirl3)
 - [phneep](http://www.phneep.com/)
 - [robek world](https://robek.world/)
 - [Satoshigallery](http://www.satoshigallery.com/)
 - [SHA256art](https://www.sha256art.com)
+- [Toonpunk](http://toonpunk.space/)
 - [VESA](https://www.artforcrypto.com/)
 
 ## Books
@@ -94,12 +97,6 @@ If you do not agree to this disclaimer, the please do not use this publication.
 
 The following are links to different crypto art communities and generes of art; these are usually grouped by currency, asset, token or genre.
 
-### ArtByte
-
-- [ArtByte](https://www.artbyte.me/)
-- [Twitter](http://twitter.com/artbyteme)
-- [White paper](https://www.slideshare.net/MikeCabaniss/artbyte-white-paper-track-record)
-
 ### Archetype
 
 - [Archetype website](http://archetype.mx/)
@@ -108,6 +105,12 @@ The following are links to different crypto art communities and generes of art; 
 - [Telegram](https://t.me/archetypenetwork)
 - [Twitter](https://twitter.com/archetype_mx)
 - [Whitepaper](http://archetype.mx/download/whitepaperV1.1.pdf)
+
+### ArtByte
+
+- [ArtByte](https://www.artbyte.me/)
+- [Twitter](http://twitter.com/artbyteme)
+- [White paper](https://www.slideshare.net/MikeCabaniss/artbyte-white-paper-track-record)
 
 ### Counterparty
 
@@ -174,6 +177,7 @@ Community resources for the Counterparty asset protocol
 
 Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token. A special token, **PEPECASH** also exists and Rare Pepe are exchanged for for PEPECASH, XCP, or each other.
 
+- [Pepe Wisdom](http://pepewisdom.com/)
 - [Rare Pepe Directory](http://rarepepedirectory.com/)
 - [Rare Pepe Foundation](http://rarepepefoundation.com/)
 - [Rare Pepe Magazine](http://www.rarepepemagazine.com/)
@@ -198,22 +202,36 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Twitter](https://twitter.com/CodexProtocol)
 - [Whitepaper](https://docsend.com/view/n4sbws8)
 
+### Krypto Studios
+
+- [Krypto Studios website](https://www.kryptostudios.net/)
+- [Twitter](https://twitter.com/KryptoStudiosWW)
+
 ### Rare Bits
 
 - [Rare Bits website](https://t.co/nOO9Vzmd1E)
 - [Twitter](https://twitter.com/rarebits_io)
+
+### The Distributed Gallery
+
+- [The Distributed Gallery website](http://www.distributedgallery.com)
+- [GitHub](https://github.com/distributedgallery/)
+- [Twitter](https://twitter.com/DistribGallery)
 
 ## Papers
 
 - [Bitcoin](https://bitcoin.org/bitcoin.pdf)
 - [Bitcoin Hurdles: the Public Goods Costs of Securing a Decentralized Seigniorage Network which Incentivizes Alternatives and Centralization](http://www.ofnumbers.com/wp-content/uploads/2014/04/Bitcoins-Public-Goods-hurdles.pdf)
 - [Digital Art as ‘Monetised Graphics’: Enforcing Intellectual Property on the Blockchain](https://link.springer.com/article/10.1007/s13347-016-0243-1)
-- [Ethereum whitepaper](https://www.ethereum.org/pdfs/EthereumWhitePaper.pdf)
+- [Ethereum whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+- [Ethereum: A Secure Decentralised Generalised Transaction Ledger EIP-150 Revision](http://gavwood.com/Paper.pdf)
 - [Token Curated Registries](https://docs.google.com/document/d/1BWWC__-Kmso9b7yCI_R7ysoGFIT9D_sfjH3axQsmB6E)
 
 ## Podcasts
 
+- [Artelligence](https://soundcloud.com/artelligence)
 - [Art On The Blockchain](https://soundcloud.com/artontheblockchain)
+- [Dank Rares](https://soundcloud.com/jason-bailey-786800764)
 
 ## Technologies & Tools
 
@@ -243,6 +261,8 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 - [Documentation](https://solidity.readthedocs.io/en/latest/)
 - [OpenZeppelin](https://openzeppelin.org/) is an open framework of reusable and secure smart contracts in the Solidity language
+- [Truffle](https://github.com/trufflesuite/truffle)
+- [Truffle documentation](http://truffleframework.com/docs/)
 
 ### Wallets
 
@@ -292,7 +312,9 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 - [Artnome](https://www.artnome.com/)
 - [Codex Protocol](https://codexprotocol.com/) is a blockchain based decentralized title registry for Art & Collectibles
+- [Crypto Greetings](https://www.cryptogreetings.com/)
 - [DecentralizedArtShow](https://www.decentralizedartshows.com/)
+- [Friends of Satoshi](http://www.friendsofsatoshi.com/)
 - [hodlcrypto](https://hodlcrypto.org/) cryptocurrency analysis and art for long-term thinkers
 - [Quidd](https://quidd.co) art and collectibles
 - [Rare Art Registry and Exchange](https://rareart.io/)
@@ -300,9 +322,9 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 ## Donate
 
-If you find this list helpful, please donate!
+If you find this list helpful, please donate what you can spare to support future open source work by obxium laboratory!
 
-#### Bitcoin and Bitcoin based art are welcome as donations to this address:
+#### Bitcoin and Bitcoin based art & assets are welcome as donations to this address:
 
 ```
 1Gm1bL1v3ntLXnkNE8Pw2SsnyhsotZwYKR
@@ -310,7 +332,7 @@ If you find this list helpful, please donate!
 
 ![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/1Gm1bL1v3ntLXnkNE8Pw2SsnyhsotZwYKR.png)
 
-#### Ethereum and Ethereum based art welcome as donations to this address:
+#### Ethereum and Ethereum based art & assets are welcome as donations to this address:
 
 ```
 0x20a0a36f916c541d6fa625893d2640e5d9495ff6
