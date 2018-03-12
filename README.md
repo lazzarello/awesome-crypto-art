@@ -75,6 +75,7 @@ If you do not agree to this disclaimer, then please do not use this publication.
 - [Jessica Angel](http://www.jessicaangelarts.com/)
 - [Julia K](https://twitter.com/juliakponsford)
 - [Kirk Dunkley](http://www.sigmasixdesign.com/bitcoingallery-store)
+- [ManWithNoName.Space](http://manwithnoname.space/)
 - [Marisol Vengas](https://www.facebook.com/MarisolVengas/)
 - [Moka Schitta](https://www.mokafolio.de/)
 - [Moxarra Gonzalez](https://twitter.com/moxarra)
@@ -295,14 +296,17 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
  - [vault-ethereum](https://github.com/immutability-io/vault-ethereum)
  - [Immutability Project](https://github.com/immutability-io/immutability-project)
 
-### Market Monitors, Application & Exchange Browsers
+### Market Monitors, Application/Exchange Browsers & Tools
 
 - [Blockchain](https://blockchain.info/) explore blockchain
 - [CryptoCompare](https://www.cryptocompare.com/)
 - [Cryptowatch](https://cryptowat.ch/)
 - [DapRadar](https://dappradar.com/)
+- [Drizzle](http://truffleframework.com/docs/drizzle/getting-started)
 - [Etherscan](https://etherscan.io/)
+- [Ganache](http://truffleframework.com/ganache/)
 - [Mist](https://github.com/ethereum/mist)
+- [Parity](https://www.parity.io/)
 - [State of the DAPPs](https://www.stateofthedapps.com/)
 - [Toshi](http://www.toshi.org/)
 - [XChain](https://xchain.io) Counterparty blockchain explorer
