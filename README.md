@@ -86,9 +86,11 @@ If you do not agree to this disclaimer, then please do not use this publication.
 - [phneep](http://www.phneep.com/)
 - [robek world](https://robek.world/)
 - [Satoshigallery](http://www.satoshigallery.com/)
+- [serste](https://serestelitano.wixsite.com/thepencilholder)
 - [SHA256art](https://www.sha256art.com)
 - [Toonpunk](http://toonpunk.space/)
 - [VESA](https://www.artforcrypto.com/)
+- [XCOPY](http://xcopyart.com/)
 
 ## Books
 
