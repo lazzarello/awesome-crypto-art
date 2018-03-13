@@ -67,23 +67,29 @@ If you do not agree to this disclaimer, then please do not use this publication.
 ## Artists
 
 - [Alexandra Vasile](https://twitter.com/alexandrav_art)
+- [avtr108](https://steemit.com/@avtr108)
+- [Boris Toledo Doorm](https://twitter.com/Creadoorm)
 - [cryptograffiti](https://cryptograffiti.com/)
 - [Cryptopop](https://cryptopop.net/)
 - [Daniel Friedman](https://www.flickr.com/photos/daniel_friedman/)
 - [DJ J Scrilla](https://twitter.com/scrillaventura)
+- [Drawz](https://twitter.com/cryptodrawz)
 - [Jesse Wright](https://www.rantingwright.com/)
 - [Jessica Angel](http://www.jessicaangelarts.com/)
 - [Julia K](https://twitter.com/juliakponsford)
 - [Kirk Dunkley](http://www.sigmasixdesign.com/bitcoingallery-store)
 - [ManWithNoName.Space](http://manwithnoname.space/)
 - [Marisol Vengas](https://www.facebook.com/MarisolVengas/)
+- [Mollie Serena](http://www.mollieserena.com/)
 - [Moka Schitta](https://www.mokafolio.de/)
 - [Moxarra Gonzalez](https://twitter.com/moxarra)
 - [MrHansel](https://twitter.com/bettidlomas)
 - [Nanu Berks](http://nanuberks.com/)
 - [Ophelia Fu](http://www.opheliafu.co.uk/)
 - [Pepe Girl](https://twitter.com/pepegirl3)
+- [pepedust](http://pepedust.com/)
 - [phneep](http://www.phneep.com/)
+- [Remo Camerota](http://www.remography.com/)
 - [robek world](https://robek.world/)
 - [Satoshigallery](http://www.satoshigallery.com/)
 - [serste](https://serestelitano.wixsite.com/thepencilholder)
@@ -186,6 +192,16 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Rare Pepe Magazine](http://www.rarepepemagazine.com/)
 - [Rare Pepe Wallet](https://rarepepewallet.com/)
 - [Rare Pepe Magazine](http://www.rarepepemagazine.com/)
+
+### The Scarab Experiment
+
+- [The Scarab Experiment Website](http://www.thescarabexperiment.org/)
+- [Bitcoin Talk forum](https://bitcointalk.org/index.php?topic=1822809.0)
+- [Instagram](https://www.instagram.com/scarabexperiment/)
+- [Medium](https://medium.com/@TheScarabX)
+- [reddit](http://www.reddit.com/r/TheScarabExperiment)
+- [Slack](https://join.slack.com/t/thescarabexperiment/shared_invite/enQtMjQzOTgwMTM1MTUzLTA5M2E5NjhmMWNmYjQ3ZWQ4ODNmMDZlMzY5ZjAxMWZlYTE5ODVmNjkwYWZjODQxNmY5ZTMzNDYzNTE5MWRiOTk)
+- [Twitter](http://twitter.com/TheScarabX)
 
 ## Exchanges
 
@@ -316,6 +332,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 ## Crypto Art & Collection Related Websites
 
+- [ARK PYRAMID](http://www.arkpyrmd.com/)
 - [Artnome](https://www.artnome.com/)
 - [Codex Protocol](https://codexprotocol.com/) is a blockchain based decentralized title registry for Art & Collectibles
 - [Crypto Greetings](https://www.cryptogreetings.com/)
