@@ -16,42 +16,51 @@ If you want to discuss something more complex than adding or editing an entry, (
 
 ## Table of Contents
 
-* [DISCLAIMER](#disclaimer)
-* [Artists](#artists)
-* [Books](#books)
-* [Communities and Genres](#communities-and-genres)
-  * [ArtByte](#artbyte)
-  * [Archetype](#archetype)
-  * [Counterparty](#counterparty)
-  * [CryptoPunks](#cryptopunks)
-  * [Curio Cards](#curio-cards)
-  * [DADA](#dada)
-  * [Decentraland](#decentraland)
-  * [Maecenas](#maecenas)
-  * [Rare Art Labs](#rare-art-labs)
-  * [Rare Pepe](#rare-pepe)
-* [Exchanges](#exchanges)
-* [Galleries and Registries](#galleries-and-registries)
-  * [Codex Protocol](#codex-protocol)
-  * [Rare Bits](#rare-bits)
-* [Papers](#papers)
-* [Podcasts](#podcasts)
-* [Technologies &amp; Tools](#technologies--tools)
-  * [Contracts &amp; Tokens](#contracts--tokens)
-    * [Counterparty (XCP)](#counterparty-xcp)
-    * [Ethereum ERC-20 token contract](#ethereum-erc-20-token-contract)
-    * [Ethereum ERC-721 token contract](#ethereum-erc-721-token-contract)
-    * [Ethereum ERC-827 token contract](#ethereum-erc-827-token-contract)
-    * [Solidity Smart Contract Language](#solidity-smart-contract-language)
-  * [Wallets](#wallets)
-    * [Hardware Wallets](#hardware-wallets)
-    * [Software Wallets](#software-wallets)
-      * [Bitcoin (BTC) Software Wallets](#bitcoin-btc-software-wallets)
-      * [Ethereum (ETH) Software Wallets](#ethereum-eth-software-wallets)
-  * [Market Monitors, Application &amp; Exchange Browsers](#market-monitors-application--exchange-browsers)
-* [Crypto Art &amp; Collection Related Websites](#crypto-art--collection-related-websites)
-* [Donate](#donate)
-* [Thank You!](#thank-you)
+ * **Awesome Crypto Art**
+    * [Table of Contents](#table-of-contents)
+    * [Disclaimer](#disclaimer)
+    * [Artists](#artists)
+    * [Books](#books)
+    * [Communities and Genres](#communities-and-genres)
+       * [Archetype](#archetype)
+       * [ArtByte](#artbyte)
+       * [Counterparty](#counterparty)
+       * [CryptoPunks](#cryptopunks)
+       * [Curio Cards](#curio-cards)
+       * [DADA](#dada)
+       * [Decentraland](#decentraland)
+       * [Maecenas](#maecenas)
+       * [Rare Art Labs](#rare-art-labs)
+       * [Rare Pepe](#rare-pepe)
+       * [The Scarab Experiment](#the-scarab-experiment)
+    * [Exchanges](#exchanges)
+    * [Galleries and Registries](#galleries-and-registries)
+       * [Codex Protocol](#codex-protocol)
+       * [Krypto Studios](#krypto-studios)
+       * [Rare Bits](#rare-bits)
+       * [The Distributed Gallery](#the-distributed-gallery)
+    * [Papers](#papers)
+    * [Podcasts](#podcasts)
+    * [Technologies &amp; Tools](#technologies--tools)
+       * [Contracts &amp; Tokens](#contracts--tokens)
+          * [Counterparty (XCP)](#counterparty-xcp)
+          * [Ethereum ERC-20 token contract](#ethereum-erc-20-token-contract)
+          * [Ethereum ERC-721 token contract](#ethereum-erc-721-token-contract)
+          * [Ethereum ERC-827 token contract](#ethereum-erc-827-token-contract)
+          * [Solidity Smart Contract Language](#solidity-smart-contract-language)
+       * [Wallets](#wallets)
+          * [Hardware Wallets](#hardware-wallets)
+          * [Software Wallets](#software-wallets)
+             * [Bitcoin (BTC) Software Wallets](#bitcoin-btc-software-wallets)
+             * [Ethereum (ETH) Software Wallets](#ethereum-eth-software-wallets)
+       * [Market Monitors, Application/Exchange Browsers &amp; Tools](#market-monitors-applicationexchange-browsers--tools)
+    * [Crypto Art &amp; Collection Related Websites](#crypto-art--collection-related-websites)
+    * [Donate](#donate)
+          * [Bitcoin and Bitcoin based art &amp; assets are welcome as donations to this address:](#bitcoin-and-bitcoin-based-art--assets-are-welcome-as-donations-to-this-address)
+          * [Ethereum and Ethereum based art &amp; assets are welcome as donations to this address:](#ethereum-and-ethereum-based-art--assets-are-welcome-as-donations-to-this-address)
+    * [Thank You!](#thank-you)
+
+
 
 ## Disclaimer
 
@@ -347,7 +356,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 If you find this list helpful, please donate what you can spare to support future open source work by obxium laboratory!
 
-#### Bitcoin and Bitcoin based art & assets are welcome as donations to this address:
+### Please donate Bitcoin and Bitcoin based art & assets to this address:
 
 ```
 1Gm1bL1v3ntLXnkNE8Pw2SsnyhsotZwYKR
@@ -355,7 +364,7 @@ If you find this list helpful, please donate what you can spare to support futur
 
 ![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/1Gm1bL1v3ntLXnkNE8Pw2SsnyhsotZwYKR.png)
 
-#### Ethereum and Ethereum based art & assets are welcome as donations to this address:
+### Please donate Ethereum and Ethereum based art & assets to this address:
 
 ```
 0x20a0a36f916c541d6fa625893d2640e5d9495ff6
