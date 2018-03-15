@@ -10,7 +10,7 @@ Please read and follow the guidlines described in [CONTRIBUTING.md](https://gith
 
 Please add your suggestions to the appropriate section in _alphabetical order_.
 
-If you want to discuss something more complex than adding or editing an entry, (such as the addition of new sections or major edits) please feel free to file an issue.
+If you want to discuss something more complex than adding or editing an entry, (such as the addition of new sections or major edits) please feel free to [file an issue](https://github.com/obxium/awesome-crypto-art/issues) so that we can discuss it further.
 
 :tada::heart: Thank you for sharing!
 
@@ -69,24 +69,34 @@ If you want to discuss something more complex than adding or editing an entry, (
 - Nothing in this publication constitutes financial advice and the contributors to this publication are not qualified licensed financial advisors
 - All information found in this publication, including ideas, opinions, views, commentaries, suggestions, or processes, expressed or implied herein, are for informational, entertainment or educational purposes only and should not be construed as financial advice
 - The authors and contributors will not and cannot be held liable for any actions you take as a result of anything you read in this publication
-- No representations or warranties are made with respect to the accuracy or completeness of the content of this entire publication, including any links to other sites. The links provided are maintained by their respective organizations and those organizations are solely responsible for their content. All information presented in this publication is provided **‘as is’**, **without warranty of any kind**, **expressed or implied**.
+- No representations or warranties are made with respect to the accuracy or completeness of the content of this entire publication, including any links to other sites. The links provided are maintained by their respective organizations and those organizations are solely responsible for their content. **All information presented in this publication is provided ‘as is’**, **without warranty of any kind**, **expressed or implied**.
 
 If you do not agree to this disclaimer, then please do not use this publication.
 
 ## Artists
 
+All of the following artists are either dedicated crypto artists or have been known to contirbute to crypto art creation.
+
+- [Alex Aliume](https://www.aliumeart.com/)
 - [Alexandra Vasile](https://twitter.com/alexandrav_art)
 - [avtr108](https://steemit.com/@avtr108)
 - [Boris Toledo Doorm](https://twitter.com/Creadoorm)
 - [cryptograffiti](https://cryptograffiti.com/)
 - [Cryptopop](https://cryptopop.net/)
 - [Daniel Friedman](https://www.flickr.com/photos/daniel_friedman/)
+- [Danys Rangel](https://twitter.com/PEPELIKE2017)
 - [DJ J Scrilla](https://twitter.com/scrillaventura)
 - [Drawz](https://twitter.com/cryptodrawz)
+- [Elijah Barrett](http://elijahbarrett.com)
+- [Elypse](https://twitter.com/elypse_pink)
 - [Jesse Wright](https://www.rantingwright.com/)
 - [Jessica Angel](http://www.jessicaangelarts.com/)
+- [Julia Justo](https://www.juliajusto.com/)
 - [Julia K](https://twitter.com/juliakponsford)
+- [Julian Harper](http://www.julianharperart.com/)
 - [Kirk Dunkley](http://www.sigmasixdesign.com/bitcoingallery-store)
+- [Kit Krash](https://twitter.com/kitkrash)
+- [Leigh Blanchard](http://www.leighblanchard.com/)
 - [ManWithNoName.Space](http://manwithnoname.space/)
 - [Marisol Vengas](https://www.facebook.com/MarisolVengas/)
 - [Mollie Serena](http://www.mollieserena.com/)
@@ -100,12 +110,19 @@ If you do not agree to this disclaimer, then please do not use this publication.
 - [phneep](http://www.phneep.com/)
 - [Remo Camerota](http://www.remography.com/)
 - [robek world](https://robek.world/)
+- [Robyn Ellenbogen](http://robynellenbogen.com/)
 - [Satoshigallery](http://www.satoshigallery.com/)
 - [serste](https://serestelitano.wixsite.com/thepencilholder)
 - [SHA256art](https://www.sha256art.com)
+- [Sónia Oliveira](http://www.cirandara.com/index.php?/info/english/)
+- [Susan Silvester](http://www.susansilvester.com/)
+- [The Arkadia](https://thearkadia.com/)
+- [Takashi Murakami](https://twitter.com/takashipom)
 - [Toonpunk](http://toonpunk.space/)
+- [Trina Merry](http://www.trinamerryartist.com/)
 - [VESA](https://www.artforcrypto.com/)
 - [XCOPY](http://xcopyart.com/)
+- [Zederwan](https://twitter.com/Zederwan)
 
 ## Books
 
@@ -346,6 +363,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Codex Protocol](https://codexprotocol.com/) is a blockchain based decentralized title registry for Art & Collectibles
 - [Crypto Greetings](https://www.cryptogreetings.com/)
 - [DecentralizedArtShow](https://www.decentralizedartshows.com/)
+- [Drawz For Prez.](http://drawzforprez.com/)
 - [Friends of Satoshi](http://www.friendsofsatoshi.com/)
 - [hodlcrypto](https://hodlcrypto.org/) cryptocurrency analysis and art for long-term thinkers
 - [Quidd](https://quidd.co) art and collectibles
