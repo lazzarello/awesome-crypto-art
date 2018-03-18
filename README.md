@@ -94,6 +94,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Julia Justo](https://www.juliajusto.com/)
 - [Julia K](https://twitter.com/juliakponsford)
 - [Julian Harper](http://www.julianharperart.com/)
+- [Kevin Abosch](https://iamacoin.com/)
 - [Kirk Dunkley](http://www.sigmasixdesign.com/bitcoingallery-store)
 - [Kit Krash](https://twitter.com/kitkrash)
 - [Leigh Blanchard](http://www.leighblanchard.com/)
@@ -123,6 +124,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [VESA](https://www.artforcrypto.com/)
 - [XCOPY](http://xcopyart.com/)
 - [Zederwan](https://twitter.com/Zederwan)
+- [Zsolt Vidak](https://twitter.com/zsoltvidak)
 
 ## Books
 
