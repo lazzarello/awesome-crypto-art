@@ -157,6 +157,14 @@ The following are links to different crypto art communities and generes of art; 
 - [Twitter](http://twitter.com/artbyteme)
 - [White paper](https://www.slideshare.net/MikeCabaniss/artbyte-white-paper-track-record)
 
+### #ARTPROJECT
+
+- [truebit ART PROJECT website](http://artproject.io/)
+- [Project Proposal](https://truebit.io/artproject.pdf)
+- [Telegram](https://t.me/cryptoartproject)
+- [Medium](https://medium.com/artproject-truebit)
+- [Art On The Blockchain Podcast Episode](https://soundcloud.com/artontheblockchain/episode-9-conversation-w-artnome)
+
 ### Counterparty
 
 Community resources for the Counterparty asset protocol
@@ -249,6 +257,15 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Zaif](https://corp.zaif.jp/)
 
 ## Galleries and Registries
+
+### ascribe
+
+- [ascribe website](https://www.ascribe.io/)
+- [Frequently Asked Questions](https://www.ascribe.io/faq/)
+- [GitHub](https://github.com/ascribe)
+- [Tumblr](http://ascribe-io.tumblr.com/)
+- [Twitter](https://twitter.com/ascribeIO)
+- [Whitepaper](https://www.ascribe.io/app/editions/1iYjGaiKPSm3uw3bqZoTWBEkJQCaPHM4L)
 
 ### Codex Protocol
 
@@ -376,8 +393,10 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Drawz For Prez.](http://drawzforprez.com/)
 - [Friends of Satoshi](http://www.friendsofsatoshi.com/)
 - [hodlcrypto](https://hodlcrypto.org/) cryptocurrency analysis and art for long-term thinkers
+- [Pepe Japan](https://pepe-japan.com)
 - [Quidd](https://quidd.co) art and collectibles
 - [Rare Art Registry and Exchange](https://rareart.io/)
+- [The Rarest Company](https://rarest.io/)
 - [Verisart](https://www.verisart.com)
 
 ## Donate
