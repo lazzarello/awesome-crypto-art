@@ -87,7 +87,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Daniel Friedman](https://www.flickr.com/photos/daniel_friedman/)
 - [Danys Rangel](https://twitter.com/PEPELIKE2017)
 - [DavinciNine](https://twitter.com/DavinciNine)
-- [DJ J Scrilla](https://twitter.com/scrillaventura)
+- [DJ J Scrilla](https://rarescrilla.com/)
 - [Drawz](https://twitter.com/cryptodrawz)
 - [Elijah Barrett](http://elijahbarrett.com)
 - [Elypse](https://twitter.com/elypse_pink)
