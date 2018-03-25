@@ -221,8 +221,9 @@ Community resources for the Counterparty asset protocol
 ### Monacard & MonaParty
 
 - [Monacard website](https://card.mona.jp/)
-- [monaparty](https://www.monaparty.me/)
-- [MonaWallet](https://wallet.monaparty.me)
+- [MonaParty website](https://www.monaparty.me/)
+- [MonaParty Twitter](@MonapartyXMP)
+- [MonaWallet website](https://wallet.monaparty.me)
 
 ### Rare Art Labs
 
