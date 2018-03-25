@@ -218,6 +218,12 @@ Community resources for the Counterparty asset protocol
 - [Twitter](https://twitter.com/maecenasart)
 - [White paper](https://www.maecenas.co/Maecenas-WhitePaper.pdf)
 
+### Monacard & MonaParty
+
+- [Monacard website](https://card.mona.jp/)
+- [monaparty](https://www.monaparty.me/)
+- [MonaWallet](https://wallet.monaparty.me)
+
 ### Rare Art Labs
 
 - [Rare Art Registry and Exchange](https://rareart.io/)
@@ -382,6 +388,10 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Toshi](http://www.toshi.org/)
 - [XChain](https://xchain.io) Counterparty blockchain explorer
 - [XCP DEX](https://xcpdex.com/)
+
+### Other Hardware
+
+- [Meural](https://meural.com/)
 
 ## Crypto Art & Collection Related Websites
 
