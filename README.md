@@ -30,6 +30,7 @@ If you want to discuss something more complex than adding or editing an entry, (
    * [DADA](#dada)
    * [Decentraland](#decentraland)
    * [Maecenas](#maecenas)
+   * [Monacard &amp; MonaParty](#monacard--monaparty)
    * [Rare Art Labs](#rare-art-labs)
    * [Rare Pepe](#rare-pepe)
    * [The Scarab Experiment](#the-scarab-experiment)
@@ -55,7 +56,9 @@ If you want to discuss something more complex than adding or editing an entry, (
          * [Bitcoin (BTC) Software Wallets](#bitcoin-btc-software-wallets)
          * [Ethereum (ETH) Software Wallets](#ethereum-eth-software-wallets)
    * [Market Monitors, Application/Exchange Browsers &amp; Tools](#market-monitors-applicationexchange-browsers--tools)
+   * [Other Hardware](#other-hardware)
 * [Crypto Art &amp; Collection Related Websites](#crypto-art--collection-related-websites)
+* [Articles and Posts](#articles-and-posts)
 * [Donate](#donate)
    * [Please donate Bitcoin and Bitcoin based art &amp; assets to this address:](#please-donate-bitcoin-and-bitcoin-based-art--assets-to-this-address)
    * [Please donate Ethereum and Ethereum based art &amp; assets to this address:](#please-donate-ethereum-and-ethereum-based-art--assets-to-this-address)
@@ -409,6 +412,10 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Rare Art Registry and Exchange](https://rareart.io/)
 - [The Rarest Company](https://rarest.io/)
 - [Verisart](https://www.verisart.com)
+
+## Articles and Posts
+
+[An Artist’s Guide to the Blockchain / Part 1](https://medium.com/xlnt-art/an-artists-guide-to-the-blockchain-part-1-1b0180e5a17a)
 
 ## Donate
 
