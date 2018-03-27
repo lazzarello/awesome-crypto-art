@@ -144,9 +144,14 @@ All of the following artists are either dedicated crypto artists or have been kn
 
 The following are links to different crypto art communities and generes of art; these are usually grouped by currency, asset, token or genre.
 
-### Archetype
+### Archetype.cc
 
-- [Archetype website](http://archetype.mx/)
+- [Archetype.cc website](https://archetype.cc/)
+- [GitHub](https://github.com/archetype-cc)
+
+### Archetype.mx
+
+- [Archetype.mx website](http://archetype.mx/)
 - [Medium](https://medium.com/@_archetype)
 - [Reddit](https://www.reddit.com/r/Archetype_mx/)
 - [Telegram](https://t.me/archetypenetwork)
@@ -245,6 +250,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Rare Pepe Magazine](http://www.rarepepemagazine.com/)
 - [Rare Pepe Wallet](https://rarepepewallet.com/)
 - [Rare Pepe Magazine](http://www.rarepepemagazine.com/)
+- [レアペペディレクトリ](http://kasaneate.webcrow.jp/pepe/)
 
 ### The Scarab Experiment
 
