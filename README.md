@@ -2,11 +2,11 @@
 
 > A curated list of fantastic cryptographic art (blockchain art) resources.
 
-This list is curated and published by [obxium](https://github.com/obxium).
+This list is curated and published by [obxium](https://obxium.com).
 
 Contributions from all members of the crypto art community are welcome.
 
-Please read and follow the guidlines described in [CONTRIBUTING.md](https://github.com/obxium/awesome-crypto-art/blob/master/CONTRIBUTING.md) to ensure that your contribution counts, then open a pull request in a named feature branch to add or update content!
+Please read and follow the guidelines described in [Contributor Covenant Code of Conduct.md](https://github.com/obxium/awesome-crypto-art/blob/master/CODE_OF_CONDUCT.md) to ensure that your contribution counts, then open a pull request in a named feature branch to add or update content.
 
 Please add your suggestions to the appropriate section in _alphabetical order_.
 
@@ -439,19 +439,27 @@ If you find this list helpful, please donate what you can spare to support futur
 
 ### Please donate Bitcoin and Bitcoin based art & assets to this address:
 
-```
-1Gm1bL1v3ntLXnkNE8Pw2SsnyhsotZwYKR
-```
+**1Gm1bL1v3ntLXnkNE8Pw2SsnyhsotZwYKR**
 
 ![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/1Gm1bL1v3ntLXnkNE8Pw2SsnyhsotZwYKR.png)
 
 ### Please donate Ethereum and Ethereum based art & assets to this address:
 
-```
-0x20a0a36f916c541d6fa625893d2640e5d9495ff6
-```
+**0x20a0a36f916c541d6fa625893d2640e5d9495ff6**
 
 ![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/0x20a0a36f916c541d6fa625893d2640e5d9495ff6.png)
+
+### Please donate Decred to this address:
+
+**DsZup3wAa5debZt9xW77io1YVLikB34N8WV**
+
+![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/DsZup3wAa5debZt9xW77io1YVLikB34N8WV.png)
+
+### Please donate Monero to this address:
+
+**47u8Qo9VcMiGDAhEBHV3gx9JBtX9QqpA2NgdVVPKa9aH6AqaVBRwhkEbFU9LsMJ7vkeysdwBCQJPPe2oRra8XR9VJDT17Jh**
+
+![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/47u8Qo9VcMiGDAhEBHV3gx9JBtX9QqpA2NgdVVPKa9aH6AqaVBRwhkEbFU9LsMJ7vkeysdwBCQJPPe2oRra8XR9VJDT17Jh.png)
 
 ## Thank You!
 
