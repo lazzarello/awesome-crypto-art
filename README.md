@@ -245,7 +245,7 @@ Community resources for the Counterparty asset protocol
 ### Rare Art Labs
 
 - [Rare Art Registry and Exchange](https://rareart.io/)
-- [R.A.R.E. Protocol white paper](https://ipfs.io/ipfs/QmaBy8JZB76DfMKbggHZ63qTw5MgTwLUFJMDipA3omPaqk)
+- [R.A.R.E. Protocol white paper](https://ipfs.rareart.io/ipfs/QmTB4d2jhwTGkwPTF7KrrVNoSTpiR9XUizzULU71HSUtCt)
 - [Twitter](https://twitter.com/rareartlabs)
 - [#ArtistsDeserveMore](https://twitter.com/hashtag/ArtistsDeserveMore?src=hash)
 
@@ -339,6 +339,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 #### Counterparty (XCP)
 
 - [Counterparty protocol specification](https://counterparty.io/docs/protocol_specification/)
+- [CoinDaddy](https://www.coindaddy.io/) XCP asset services
 
 #### Ethereum ERC-20 token contract
 
@@ -405,7 +406,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Parity](https://www.parity.io/)
 - [State of the DAPPs](https://www.stateofthedapps.com/)
 - [Toshi](http://www.toshi.org/)
-- [XChain](https://xchain.io) Counterparty blockchain explorer
+- [XChain](https://xchain.io) Counterparty explorer
 - [XCP DEX](https://xcpdex.com/)
 
 ### Other Hardware
