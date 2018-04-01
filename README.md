@@ -433,34 +433,6 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 [An Artist’s Guide to the Blockchain / Part 1](https://medium.com/xlnt-art/an-artists-guide-to-the-blockchain-part-1-1b0180e5a17a)
 
-## Donate
-
-If you find this list helpful, please donate what you can spare to support future open source work by obxium laboratory!
-
-### Please donate Bitcoin and Bitcoin based art & assets to this address:
-
-**1Gm1bL1v3ntLXnkNE8Pw2SsnyhsotZwYKR**
-
-![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/1Gm1bL1v3ntLXnkNE8Pw2SsnyhsotZwYKR.png)
-
-### Please donate Ethereum and Ethereum based art & assets to this address:
-
-**0x20a0a36f916c541d6fa625893d2640e5d9495ff6**
-
-![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/0x20a0a36f916c541d6fa625893d2640e5d9495ff6.png)
-
-### Please donate Decred to this address:
-
-**DsZup3wAa5debZt9xW77io1YVLikB34N8WV**
-
-![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/DsZup3wAa5debZt9xW77io1YVLikB34N8WV.png)
-
-### Please donate Monero to this address:
-
-**47u8Qo9VcMiGDAhEBHV3gx9JBtX9QqpA2NgdVVPKa9aH6AqaVBRwhkEbFU9LsMJ7vkeysdwBCQJPPe2oRra8XR9VJDT17Jh**
-
-![](https://raw.githubusercontent.com/obxium/awesome-crypto-art/master/47u8Qo9VcMiGDAhEBHV3gx9JBtX9QqpA2NgdVVPKa9aH6AqaVBRwhkEbFU9LsMJ7vkeysdwBCQJPPe2oRra8XR9VJDT17Jh.png)
-
 ## Thank You!
 
 - Thanks to all artists who create wonderful contributions to humanity
