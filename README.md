@@ -21,10 +21,12 @@ If you want to discuss something more complex than adding or editing an entry, (
 * [Artists](#artists)
 * [Books](#books)
 * [Communities and Genres](#communities-and-genres)
-   * [Archetype](#archetype)
+   * [Archetype.cc](#archetypecc)
+   * [Archetype.mx](#archetypemx)
    * [ArtByte](#artbyte)
    * [#ARTPROJECT](#artproject)
    * [Counterparty](#counterparty)
+   * [Creativechain](#creativechain)
    * [CryptoPunks](#cryptopunks)
    * [Curio Cards](#curio-cards)
    * [DADA](#dada)
@@ -63,6 +65,7 @@ If you want to discuss something more complex than adding or editing an entry, (
    * [Please donate Bitcoin and Bitcoin based art &amp; assets to this address:](#please-donate-bitcoin-and-bitcoin-based-art--assets-to-this-address)
    * [Please donate Ethereum and Ethereum based art &amp; assets to this address:](#please-donate-ethereum-and-ethereum-based-art--assets-to-this-address)
 * [Thank You!](#thank-you)
+
 
 ## Disclaimer
 
@@ -186,6 +189,12 @@ Community resources for the Counterparty asset protocol
 - [Twitter](https://t.me/CounterpartyXCP)
 - [XChain](https://xchain.io) Counterparty blockchain explorer
 - [XCP DEX](https://xcpdex.com/)
+
+### Creativechain
+
+- [Creativechain website](https://www.creativechain.org/)
+- [Telegram](https://t.me/creativechain_official)
+- [GitHub](https://github.com/creativechain)
 
 ### CryptoPunks
 
